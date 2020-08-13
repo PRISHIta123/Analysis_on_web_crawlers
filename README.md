@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Analysis on Web Crawling Algorithms
 
-You can use the [editor on GitHub](https://github.com/PRISHIta123/web_crawlers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Course Code- CSE2004 (Data Structures and Algorithms)  
+Team Members:  
+Prishita Ray 
+Navya R G
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project analyses 5 different web crawling algorithms , Depth First Search, Breadth First Search , Page Rank Algorithm (used by Google) , A Star Search (heuristic algorithm) and Adaptive A Star Search in terms of time complexity and memory usage. To improve the efficiency of each of these processes , we also used Cache Control headers to display details of each website like the time when it was last modified , text length , public visibility etc and reduce the time incurred while repeatedly accessing popular sites by loading them from the server again, rather than just invoking the cached loaded version. The implementation has been done using pure C programming. It was concluded that Adaptive A* has a time complexity of O(log n) and requires minimum memory for processing, followed by A* that has a time complexity of O(n). BFS(Breadth First Search) and DFS(Depth First Search) each have an O(n<sup>2</sup>) time complexity which are also have the highest resource consumption. Page Rank was the final algorithm that was analyzed and takes O(kN) time, where k is the number of iterations (we have considered 5 in this project). More details about the results and methodology can be obtained here: https://www.slideshare.net/PrishitaRay/analysis-on-web-crawling-algorithms  
 
-### Markdown
+The implementation for BFS, DFS and Page Rank was done by Navya, and those for A*, Adaptive A* and the header files for Cache Control were done by me.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Outputs obtained after running the code are attached below:  
 
-```markdown
-Syntax highlighted code block
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG) 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PRISHIta123/web_crawlers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
