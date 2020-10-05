@@ -25,5 +25,5 @@ Outputs obtained after running the code are attached below:
 
 The comparison of these search algorithms in terms of time complexity, memory usage and efficiency can be observed using this 3D bar plot:  
 <p align="center">
-  <img width="920" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/SAC.JPG">
+  <img width="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/SAC.JPG">
 </p>
