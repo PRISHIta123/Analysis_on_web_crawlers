@@ -17,4 +17,9 @@ Outputs obtained after running the code are attached below:
 ![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG) 
 ![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG) 
 ![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG) 
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG) 
 
+The comparison of these search algorithms in terms of time complexity, memory usage and efficiency can be observed using this 3D bar plot:  
+![alt text](https://github.com/PRISHIta123/web_crawlers/blob/master/SAC.JPG) 
