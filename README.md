@@ -9,22 +9,61 @@ This project analyses 5 different web crawling algorithms , Depth First Search, 
 
 The implementation for BFS, DFS and Page Rank was done by Navya, and those for A*, Adaptive A* and the header files for Cache Control were done by me.  
 
-Outputs obtained after running the code are attached below:  
+## Results
+
+Outputs obtained after running the code are attached below: 
+
+### Details of the Root
 
 <p align="left">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG">
-  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa1.JPG">
 </p>
 
+### 1. Depth First Search
+
+<p align="left">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa2.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa3.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa4.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa5.JPG">
+</p>
+
+### 2. Breadth First Search
+
+<p align="left">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa6.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa7.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa8.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa9.JPG">
+</p>
+
+### Page Rank Algorithm
+
+<p align="left">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa10.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa11.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa12.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa13.JPG">
+</p>
+
+### A* Search
+
+<p align="left">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa14.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa15.JPG">
+</p>
+
+### Adaptive A* Search
+
+<p align="left">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa16.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa17.JPG">
+  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa18.JPG">
+</p>
+
+## Analysis
 
 The comparison of these search algorithms in terms of time complexity, memory usage and efficiency can be observed using this 3D bar plot:  
 <p align="center">
-  <img width="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/SAC.JPG">
+  <img width="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/SAC.JPG">
 </p>
