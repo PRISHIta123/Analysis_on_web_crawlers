@@ -12,16 +12,17 @@ The implementation for BFS, DFS and Page Rank was done by Navya, and those for A
 Outputs obtained after running the code are attached below:  
 
 <p align="center">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG">
-  <img width="800"  src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG">
+  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG">
 </p>
+
 
 The comparison of these search algorithms in terms of time complexity, memory usage and efficiency can be observed using this 3D bar plot:  
 <p align="center">
