@@ -16,49 +16,49 @@ Outputs obtained after running the code are attached below:
 ### Details of the Root
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa1.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa1.JPG">
 </p>
 
 ### 1. Depth First Search
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa2.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa3.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa4.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa5.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa2.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa3.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa4.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa5.JPG">
 </p>
 
 ### 2. Breadth First Search
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa6.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa7.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa8.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa9.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa6.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa7.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa8.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa9.JPG">
 </p>
 
 ### Page Rank Algorithm
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa10.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa11.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa12.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa13.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa10.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa11.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa12.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa13.JPG">
 </p>
 
 ### A* Search
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa14.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa15.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa14.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa15.JPG">
 </p>
 
 ### Adaptive A* Search
 
 <p align="left">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa16.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa17.JPG">
-  <img width="700" height="800" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa18.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa16.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa17.JPG">
+  <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa18.JPG">
 </p>
 
 ## Analysis
