@@ -37,7 +37,7 @@ Outputs obtained after running the code are attached below:
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa9.JPG">
 </p>
 
-### Page Rank Algorithm
+### 3. Page Rank Algorithm
 
 <p align="left">
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa10.JPG">
@@ -46,14 +46,14 @@ Outputs obtained after running the code are attached below:
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa13.JPG">
 </p>
 
-### A* Search
+### 4. A* Search
 
 <p align="left">
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa14.JPG">
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa15.JPG">
 </p>
 
-### Adaptive A* Search
+### 5. Adaptive A* Search
 
 <p align="left">
   <img width="500" height="400" src="https://github.com/PRISHIta123/web_crawlers/blob/master/screenshots/dsa16.JPG">
