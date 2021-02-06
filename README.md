@@ -11,16 +11,16 @@ The implementation for BFS, DFS and Page Rank was done by Navya, and those for A
 
 Outputs obtained after running the code are attached below:  
 
-<p align="center">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG">
-  <img width="600" height="500" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG">
+<p align="left">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa1.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa2.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa3.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa4.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa5.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa6.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa7.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa8.JPG">
+  <img width="700" height="700" src="https://github.com/PRISHIta123/web_crawlers/blob/master/dsa9.JPG">
 </p>
 
 
